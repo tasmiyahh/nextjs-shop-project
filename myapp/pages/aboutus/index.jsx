@@ -11,7 +11,7 @@ function About() {
     we are selling everyting in one $
     <h1>ONE $ SHOP</h1>
   </div>
-  <h3>ONE $ SHOP</h3>
+  
   <Footer/>
   </>
 
